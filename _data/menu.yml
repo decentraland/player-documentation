@@ -1,0 +1,88 @@
+## Menu Items
+# This file define each item in the navigation menu
+#
+# Attributes:
+# title: "Title overwrite"
+#   Custom title for the menu item.
+#   By default each menu item use the title of the `post`/`page` but
+#   you can overwrite it using this attribute also if you define a
+#   remote item using the `url` attribute you have its title
+#
+# image: "path/to/icon.svg"
+#   A relative path from `_includes` directory.
+#   By default each menu item use an icon to show when they have
+#   children elements but you can use a custom one with this attribute.
+#
+# >>>
+# >>> NOTE: In order to generate a useful item you have to define
+# >>> `post`, `page` or `url` attributes, use more than one wont break
+# >>> the site but could generate unexpected behaviors
+# >>>
+#
+# post: "path/to/post.md"
+#   A relative path from `_posts` directory.
+#   It MUST be a [jekyll post](https://jekyllrb.com/docs/posts/)
+#
+# page: "page.html"
+#   A relative path from `./` directory.
+#   It MUST be a [jekyll page](https://jekyllrb.com/docs/pages/)
+#
+# url: "https://remote.target.com/"
+#   A URL to and external site, it will be open in other tab.
+#
+# children: []
+#   Array of item for a sub menu.
+#   Each item can have more items as children, and these can have
+#   children too. There is no limit in the depth of the menu but
+#   a too complex menu could look ugly and generate a bad user
+#   experience, please be careful :)
+
+- title: Home
+  image: sets/HomeIcon.svg
+  page: index.html
+
+- title: World
+  image: sets/WorldIcon.svg
+  children:
+    - post: "general/2018-01-01-introduction.md"
+    - post: "general/2022-05-20-hardware-requirements.md"
+    - post: "general/2018-01-02-faq.md"
+    - title: DAO
+      children:
+        - title: Overview
+          children:
+            - post: "general/DAO/Overview/2021-05-21-what-is-the-dao.md"
+            - post: "general/DAO/Overview/2021-05-21-what-can-you-do-with-the-dao.md"
+            - post: "general/DAO/Overview/2021-05-21-how-does-the-dao-work.md"
+            - post: "general/DAO/Overview/2021-05-21-what-smart-contracts-does-the-dao-control.md"
+            - post: "general/DAO/Overview/2021-05-21-the-dao-fund.md"
+            - post: "general/DAO/Overview/2021-05-21-the-daos-limitations.md"
+            - post: "general/DAO/Overview/2021-05-21-what-do-you-need-to-participate.md"
+        - title: Grants
+          children:
+            - post: "general/DAO/Overview/2021-06-18-community-grants.md"
+            - post: "general/DAO/Overview/2021-06-18-requesting-grants.md"
+            - post: "general/DAO/Overview/2021-06-18-receiving-grants.md"
+        - post: "general/DAO/2021-05-21-dao-userguide.md"
+    - post: "general/2018-01-04-whitepaper.md"
+    - post: "general/2020-11-14-hardware-acceleration.md"
+- title: Market
+  image: sets/MarketplaceIcon.svg
+  children:
+    - post: "market/2018-01-01-marketplace.md"
+    - post: "market/2020-02-16-land-manager.md"
+    - post: "market/2018-01-09-mortgages.md"
+    - post: "market/2018-01-03-info-from-land.md"
+    - post: "market/2018-01-01-api.md"
+    - post: "market/2021-01-19-api-migration-guide.md"
+- title: Ethereum essentials
+  image: sets/EthereumIcon.svg
+  children:
+    - title: Get a wallet for beginners
+      post: "blockchain-integration/2020-02-17-get-a-wallet.md"
+    - post: "general/2018-01-03-glossary.md"
+    - title: About the blockchain
+      post: "blockchain-integration/2018-01-01-ethereum-essentials.md"
+    - post: "blockchain-integration/2018-01-09-create-a-dapp.md"
+    - post: "blockchain-integration/2022-01-25-transactions-in-polygon.md"
+    - post: "blockchain-integration/2022-02-17-estates-marketplace-integrations.md"
