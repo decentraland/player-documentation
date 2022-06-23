@@ -83,6 +83,5 @@
     - post: "general/2018-01-03-glossary.md"
     - title: About the blockchain
       post: "blockchain-integration/2018-01-01-ethereum-essentials.md"
-    - post: "blockchain-integration/2018-01-09-create-a-dapp.md"
     - post: "blockchain-integration/2022-01-25-transactions-in-polygon.md"
     - post: "blockchain-integration/2022-02-17-estates-marketplace-integrations.md"
