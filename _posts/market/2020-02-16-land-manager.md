@@ -26,7 +26,7 @@ To view your LAND tokens, click **My LAND**. Here you’ll find a list of all of
 
 By clicking on one of the parcels or Estates listed under My Land, you can edit its name, description, put it up for sale, or transfer it directly to another wallet address.
 
-![]({{ site.baseurl }}/images/media/marketplace_myland.png)
+![](/images/media/marketplace_myland.png)
 
 ## Create an Estate
 
@@ -39,12 +39,12 @@ To create your first Estate, you need to own two or more adjacent LAND parcels.
 1. Open **My LAND** and select one of the parcels you'd like to add to the Estate.
 2. In the parcel's details page, click **Create Estate**.
 3. You will be shown a view of the Atlas centered on the parcel you selected, with the remaining adjacent parcels you own highlighted. Select the different parcels you want to include in your Estate.
-   ![]({{ site.baseurl }}/images/media/market_estates1.png)
+   ![](/images/media/market_estates1.png)
 
 4. Click **Continue**.
 5. Enter a name and description for your Estate. These details will be publicly displayed in the Atlas, just like the name and description for any individual parcel.
 
-   ![]({{ site.baseurl }}/images/media/market_estates2.png)
+   ![](/images/media/market_estates2.png)
 
 6. Confirm this transaction on your Ethereum client and wait for the network to verify it.
 
@@ -60,7 +60,7 @@ To edit a parcel or Estate:
 
 1. Navigate to the details page of the parcel or the Estate you'd like to edit and click **Edit**.
 
-   ![]({{ site.baseurl }}/images/media/marketplace_edit_parcel.png)
+   ![](/images/media/marketplace_edit_parcel.png)
 
 2. Click **Submit**.
 3. Confirm this transaction on your Ethereum client and wait for the network to verify it.
@@ -75,7 +75,7 @@ To grant permissions over your LAND:
 
 1. Navigate to the details page of the parcel or Estate and click **Permissions**.
 
-   ![]({{ site.baseurl }}/images/media/marketplace_give_permissions.png)
+   ![](/images/media/marketplace_give_permissions.png)
 
 2. Click **Submit**.
 3. Confirm this transaction on your Ethereum client and wait for the network to verify it.
@@ -84,7 +84,7 @@ To grant permissions over your LAND:
 
 Open the notifications page by clicking the bell icon at the top of the screen.
 
-![]({{ site.baseurl }}/images/media/marketplace_notifications.png)
+![](/images/media/marketplace_notifications.png)
 
 The notifications page displays a list of all the recent transactions that you have carried out, together with their status.
 
@@ -96,7 +96,7 @@ To transfer a LAND parcel or Estate to another user:
 
 1. Navigate to the details page of the parcel or the Estate you'd like to transfer and click **Transfer**.
 
-   ![]({{ site.baseurl }}/images/media/marketplace_transfer_land.png)
+   ![](/images/media/marketplace_transfer_land.png)
 
 2. Enter the public address of the Ethereum wallet of the recipient.
 
