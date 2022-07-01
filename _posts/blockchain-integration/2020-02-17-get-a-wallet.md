@@ -83,7 +83,7 @@ You need to buy ETH from Coinbase or another exchange using normal fiat currency
 
 ## What is MANA and how do I get it?
 
-<img src="/images/media/get-a-wallet-mana.png" style="margin: 2rem auto; display: block;width: 90%; max-width: 400px;">
+<img src="/images/media/get-a-wallet-mana.png" style="margin: 2rem auto; display: block;width: 90%; max-width: 400px;" />
 
 [MANA](https://etherscan.io/token/decentraland) is Decentraland’s fungible (reproducible or interchangeable) cryptocurrency token. It is burned, or spent in exchange for LAND parcels, wearables and names.
 
