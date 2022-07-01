@@ -10,11 +10,11 @@ type: Document
 
 Since Decentraland runs in a web browser, you might need to configure your browser and/or operating system to have access to all of your machine's potential to run Decentraland as smoothly as possible.
 
-![]({{ site.baseurl }}/images/media/gpu.png)
+![](/images/media/gpu.png)
 
 If you see this warning, it means that you are using a sub-optimal set up for rendering 3d graphics. Your experience when playing Decentraland might be laggy and unresponsive because of this. You might notice missing frames as you move around in a jumpy way.
 
-> Note: Some lower end machines, or machines that are not designed for gaming, may not have a _dedicated_ graphics card at all. If that's your case, then ignore this warning. You might still be able to improve how you experience Decentraland by opening the Settings panel and lowering the graphics quality. See [hardware requirements]({{ site.baseurl }}{% post_url /general/2022-05-20-hardware-requirements %}	).
+> Note: Some lower end machines, or machines that are not designed for gaming, may not have a _dedicated_ graphics card at all. If that's your case, then ignore this warning. You might still be able to improve how you experience Decentraland by opening the Settings panel and lowering the graphics quality. See [hardware requirements](/general/2022-05-20-hardware-requirements).
 
 ## Context
 
@@ -32,7 +32,7 @@ In Chrome or Brave:
 - Restart the browser
 
 <figure>
-    <img src="{{ site.baseurl }}/images/media/chrome.png" alt="Chrome hardware settings" width="400"/>
+    <img src="/images/media/chrome.png" alt="Chrome hardware settings" width="400"/>
 </figure>
 
 _On other browsers, the steps may vary slightly, but should be essentially the same._
