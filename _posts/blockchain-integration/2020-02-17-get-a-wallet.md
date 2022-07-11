@@ -5,6 +5,7 @@ description: Decentraland uses the Ethereum blockchain to record the ownership o
 redirect_from:
   - /get-a-wallet/
   - /blockchain-integration/get-a-wallet/
+  - /examples/get-a-wallet/
 categories:
   - examples
 type: Document

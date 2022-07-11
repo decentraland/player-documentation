@@ -12,7 +12,7 @@ type: Document
 
 You can use the Decentraland CLI to query info directly from LAND tokens in the blockchain and from the scene files uploaded to the content server.
 
-To run these commands, you must first [Install the CLI](/development-guide/2018-01-01-installation-guide).
+To run these commands, you must first [Install the CLI](/creator/development-guide/installation-guide).
 
 ## Get info about a scene
 

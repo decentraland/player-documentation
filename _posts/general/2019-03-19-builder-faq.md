@@ -79,8 +79,8 @@ Right now, all of the models come with one texture, but we agree that it’d be 
 
 You can find all of these models in [this repo](https://github.com/decentraland/builder-assets/tree/master/assets). You can also add the models you wish to a scene in the Builder and then export that scene, and you'll find the used models in a folder.
 
-Before editing the models, see the [3D Modeling section of our docs](/3d-modeling/2018-01-09-3d-models).
+Before editing the models, see the [3D Modeling section of our docs](/creator/3d-modeling/3d-models).
 
 ## Can I create my own smart items?
 
-Yes. Doing that requires using code and being familiar with the Decentraland SDK. You can find details [here](/development-guide/2020-02-20-smart-items).
+Yes. Doing that requires using code and being familiar with the Decentraland SDK. You can find details [here](/creator/development-guide/smart-items).
