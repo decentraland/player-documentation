@@ -5,6 +5,8 @@ description: Important things to have in mind if you want to integrate the Decen
 categories:
   - blockchain-integration
 type: Document
+redirect_from:
+  - /blockchain-integration/estates-marketplace-integrations/
 ---
 
 ## Integrating Decentraland's Estate in your Marketplace

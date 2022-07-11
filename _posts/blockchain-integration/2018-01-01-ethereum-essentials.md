@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /blockchain-interactions/ethereum-essentials
+  - /blockchain-integration/ethereum-essentials
 ---
 
 All blockchains are in essence decentralized databases that are distributed among the machines of a network. Transactions are grouped into “blocks” and processed sequentially to form a _chain_ of events.
@@ -59,7 +60,7 @@ Each developer working on a scene will be able to choose whether to use the main
 
 The sidechain will be kept interoperable with the Ethereum’s mainchain. You’ll be able to load tokens from the main chain into the side chain and vice versa. Transactions that take place in the sidechain are eventually reflected in the mainchain when the tokens “exit” back into the mainchain.
 
-Read more about this in [Second layer](/development-guide/2018-02-02-second-layer).
+Read more about this in [Second layer](/creator/development-guide/second-layer).
 
 #### Trigger transactions from a scene
 
@@ -120,7 +121,7 @@ _dApps_ (decentralized applications) are applications that are built upon smart 
 
 A dApp can be as simple as something that validates that your wallet holds a certain token and lets you use a service. Or it can be a fully fledged application with its own UI, such as the Decentraland Marketplace.
 
-If you want to build your own dApp around Decentrlanad, see [Create a dApp](/blockchain-integration/2018-01-09-create-a-dapp).
+If you want to build your own dApp around Decentrlanad, see [Create a dApp](/creator/blockchain-integration/create-a-dapp).
 
 ## Ropsten test network
 

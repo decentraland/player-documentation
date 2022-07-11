@@ -3,14 +3,14 @@
 ### Find help about the various topics in each of these sections
 
 <div class="shortcuts">
-  <a href="/general/2018-01-01-introduction">
+  <a href="/player/general/introduction">
     <div>
       <div class="image"><img src="/images/BackWorld.png" width="380" height="380"/></div>
       <div class="title">World</div>
       <div class="description">General info for players.</div>
     </div>
   </a>
-  <a href="/market/2018-01-01-marketplace">
+  <a href="/player/market/marketplace">
     <div>
       <div class="image"><img src="/images/BackMarket.png" width="380" height="380"/></div>
       <div class="title">Market</div>
@@ -24,7 +24,7 @@
       <div class="description">Learn to build and share your creations.</div>
     </div>
   </a>
-  <a href="/blockchain-integration/2020-02-17-get-a-wallet">
+  <a href="/player/blockchain-integration/get-a-wallet">
     <div>
       <div class="image"><img src="/images/BackEth.png" width="380" height="380"/></div>
       <div class="title">Ethereum Essentials</div>

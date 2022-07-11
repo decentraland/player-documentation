@@ -5,6 +5,8 @@ description: Frequently Asked Questions
 categories:
   - blockchain-integration
 type: Document
+redirect_from:
+  - /blockchain-integration/transactions-in-polygon/
 ---
 
 ## What is Polygon?
