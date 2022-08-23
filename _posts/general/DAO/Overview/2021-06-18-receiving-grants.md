@@ -2,6 +2,7 @@
 date: 2021-06-18
 title: Receiving Grants
 redirect_from:
+  /decentraland/receiving-grants/
 description: How to receive your grant
 categories:
   - Decentraland

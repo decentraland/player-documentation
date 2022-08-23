@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: DAO Uses
 redirect_from:
+  - /decentraland/what-can-you-do-with-the-dao/
 description: The DAO allows users to create and vote on proposals that shape the metaverse.
 categories:
   - Decentraland

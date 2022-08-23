@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: DAO Limitations
 redirect_from:
+  - /decentraland/the-daos-limitations/
 description: The DAO is a specific governance tool with a finite amount of power.
 categories:
   - Decentraland

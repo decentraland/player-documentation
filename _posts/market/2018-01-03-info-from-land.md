@@ -5,6 +5,7 @@ description: Get info from land parcels, estates or addresses using the CLI.
 redirect_from:
   - /blockchain-interactions/info-from-land
   - /blockchain-integration/info-from-land
+  - /market/info-from-land/
 categories:
   - market
 type: Document

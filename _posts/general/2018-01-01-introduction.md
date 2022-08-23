@@ -6,6 +6,7 @@ redirect_from:
   - /login?redirect=docs
   - /docs
   - /docs/
+  - /decentraland/introduction/
 categories:
   - Decentraland
 type: Document
