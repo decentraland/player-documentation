@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: Participation Requirements
 redirect_from:
+  - /decentraland/what-do-you-need-to-participate/
 description: An explanation of what you need in order to create and vote in proposals in the DAO.
 categories:
   - Decentraland

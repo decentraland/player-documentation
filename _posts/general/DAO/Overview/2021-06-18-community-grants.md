@@ -2,6 +2,7 @@
 date: 2021-06-18
 title: Community Grants
 redirect_from:
+ - /decentraland/community-grants/
 description: An overview of community grants
 categories:
   - Decentraland

@@ -5,6 +5,8 @@ description: Migrate from v1 to v2 of the LAND API
 categories:
   - market
 type: Document
+redirect_from:
+  - /market/api-migration-guide/
 ---
 
 ## Table of Contents

@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: The DAO Fund
 redirect_from:
+  - /decentraland/the-dao-fund/
 description: An overview and discussion of the DAO's MANA
 categories:
   - Decentraland
