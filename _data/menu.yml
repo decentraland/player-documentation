@@ -37,10 +37,6 @@
 #   a too complex menu could look ugly and generate a bad user
 #   experience, please be careful :)
 
-- title: Home
-  image: sets/HomeIcon.svg
-  page: index.html
-
 - title: World
   image: sets/WorldIcon.svg
   children:
