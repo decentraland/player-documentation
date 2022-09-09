@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: The DAO's Smart Contracts
 redirect_from:
+  - /decentraland/what-smart-contracts-does-the-dao-control/
 description: The DAO owns and controls Decentraland's most critical smart contracts.
 categories:
   - Decentraland

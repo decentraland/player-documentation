@@ -2,6 +2,7 @@
 date: 2020-11-24
 title: Hardware acceleration
 redirect_from:
+  - /decentraland/hardware-acceleration/
 description: Troubleshoot problems related to graphics processing performance
 categories:
   - Decentraland

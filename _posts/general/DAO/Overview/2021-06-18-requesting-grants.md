@@ -2,6 +2,7 @@
 date: 2021-06-18
 title: Requesting Grants
 redirect_from:
+  - /decentraland/requesting-grants/
 description: How to request a grant from the DAO
 categories:
   - Decentraland

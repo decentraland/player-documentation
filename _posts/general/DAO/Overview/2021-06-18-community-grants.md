@@ -2,6 +2,7 @@
 date: 2021-06-18
 title: Community Grants
 redirect_from:
+ - /decentraland/community-grants/
 description: An overview of community grants
 categories:
   - Decentraland
@@ -55,31 +56,37 @@ The specific tiers, and their ranges, are:
 
 *   Up to $1,500 USD in MANA
 *   One-time payment
+*   VP Threshold: 1M VP
 
 #### Tier 2
 
 *   $1,500 - $3,000 USD in MANA
 *   One-time payment
+*   VP Threshold: 1M VP
 
 #### Tier 3
 
 *   $3,000 - $5,000 USD in MANA
 *   3 months vesting contract (1 month cliff)
+*   VP Threshold: 1M VP
 
 #### Tier 4
 
 *   $5,000 - $60,000 USD
 *   6 months vesting contract (1 month cliff)
+*   VP Threshold: 2M VP
 
 #### Tier 5
 
 *   $60,000 - $120,000 USD
 *   6 months vesting contract (1 month cliff)
+*   VP Threshold: 4M VP
 
 #### Tier 6
 
 *   $120,000 - $240,000 USD
-*   6 months vesting contract (1 month cliff) 
+*   6 months vesting contract (1 month cliff)
+*   VP Threshold: 8M VP
 
 
 ## When are payments made for each tier?

@@ -2,6 +2,7 @@
 date: 2021-05-21
 title: What is the DAO?
 redirect_from:
+  - /decentraland/what-is-the-dao/
 description: The DAO is the decision making platform for Decentraland.
 categories:
   - Decentraland

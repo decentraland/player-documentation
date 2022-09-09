@@ -5,6 +5,8 @@ description: Manage LAND and Estate tokens
 categories:
   - market
 type: Document
+redirect_from:
+   - /market/land-manager/
 ---
 
 The Land Manager allows you to manage your LAND and Estate assets.
