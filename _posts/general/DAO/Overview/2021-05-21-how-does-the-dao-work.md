@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /decentraland/how-does-the-dao-work/
+slug: /player/DAO/overview/how-does-the-dao-work
 ---
 
 To circumvent the very high gas fees associated with full on-chain governance, Decentraland’s DAO uses a combination of free, off-chain voting for the community and a multi-sig wallet controlled by a “DAO Committee” to enact those off-chain decisions on the Ethereum blockchain. This allows everyone who holds MANA, NAMES or LAND to participate in the DAO without having to pay any fees everytime they want to vote or open a proposal.

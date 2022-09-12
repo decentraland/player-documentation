@@ -7,6 +7,7 @@ description: The DAO is a specific governance tool with a finite amount of power
 categories:
   - Decentraland
 type: Document
+slug: /player/DAO/overview/the-daos-limitations
 ---
 
 The most important thing to remember about the Decentraland DAO is that it is a specific governance tool with limited capabilities. Like a vending machine, the DAO is mostly automated. However, this automation leads to limited options.

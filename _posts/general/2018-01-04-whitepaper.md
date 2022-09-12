@@ -8,6 +8,7 @@ description: Read more about the philosophy and design of Decentraland in our wh
 categories:
   - Decentraland
 type: Document
+slug: /player/general/whitepaper
 ---
 
 The original Decentraland white paper written by Esteban Ordano, Ariel Meilich, Yemel Jardi, and Manuel Araoz can be found using the link below.

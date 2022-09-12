@@ -7,6 +7,7 @@ description: The DAO allows users to create and vote on proposals that shape the
 categories:
   - Decentraland
 type: Document
+slug: /player/DAO/overview/what-can-you-do-with-the-dao
 ---
 
 The DAO allows for two general types of proposals: **proposals with direct binding actions**, and **governance proposals**.

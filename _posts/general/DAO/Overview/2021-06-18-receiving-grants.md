@@ -7,6 +7,7 @@ description: How to receive your grant
 categories:
   - Decentraland
 type: Document
+slug: /player/dao/grants/receiving-grants
 ---
 
 

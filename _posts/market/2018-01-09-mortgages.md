@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /market/mortgages/
+slug: /player/market/mortgages
 ---
 
 > **IMPORTANT: LAND mortgages from the Ripio Credit Network have been deprecated!**
