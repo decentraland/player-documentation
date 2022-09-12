@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /blockchain-integration/estates-marketplace-integrations/
+slug: /player/blockchain-integration/estates-marketplace-integrations/
 ---
 
 ## Integrating Decentraland's Estate in your Marketplace

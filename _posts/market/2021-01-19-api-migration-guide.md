@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /market/api-migration-guide/
+slug: /player/market/api-migration-guide
 ---
 
 ## Table of Contents

@@ -7,6 +7,7 @@ description: An overview of community grants
 categories:
   - Decentraland
 type: Document
+slug: /player/dao/grants/community-grants
 ---
 
 

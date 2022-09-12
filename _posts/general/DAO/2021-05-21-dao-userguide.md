@@ -7,6 +7,7 @@ description: How to use the Decentraland DAO
 categories:
   - Decentraland
 type: Document
+slug: /player/dao/dao-userguide
 ---
 
 ## Table of Contents

@@ -9,6 +9,7 @@ redirect_from:
 categories:
   - examples
 type: Document
+slug: player/blockchain-integration/get-a-wallet
 ---
 
 ## What is a wallet?

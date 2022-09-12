@@ -12,6 +12,7 @@ description: Meet the LAND marketplace
 categories:
   - market
 type: Document
+slug: /player/market/marketplace
 ---
 
 The Marketplace is the go-to place to trade and manage all your Decentraland on-chain assets.
