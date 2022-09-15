@@ -5,7 +5,8 @@ description: Minimum hardware requirements to run Decentraland on a computer.
 categories:
   - Decentraland
 type: Document
-redirect_from: /decentraland/hardware-requirements/
+redirect_from: 
+  - /decentraland/hardware-requirements/
 slug: /player/general/hardware-requirements
 ---
 

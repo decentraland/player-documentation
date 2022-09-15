@@ -7,6 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /blockchain-interactions/ethereum-essentials
+  - /blockchain-integration/ethereum-essentials/
 slug: /player/blockchain-integration/ethereum-essentials
 ---
 
