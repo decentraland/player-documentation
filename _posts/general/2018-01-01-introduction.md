@@ -6,9 +6,11 @@ redirect_from:
   - /login?redirect=docs
   - /docs
   - /docs/
+  - /decentraland/introduction/
 categories:
   - Decentraland
 type: Document
+slug: /player/general/introduction
 ---
 
 **Decentraland is a decentralized virtual reality platform powered by the Ethereum blockchain. Within the Decentraland platform, users can create, experience, and monetize their content and applications.**

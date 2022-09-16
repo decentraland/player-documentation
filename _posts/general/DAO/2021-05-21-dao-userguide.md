@@ -2,10 +2,13 @@
 date: 2021-05-21
 title: DAO User Guide
 redirect_from:
+  - /decentraland/dao-userguide/
+  - /player/dao/dao-userguide
 description: How to use the Decentraland DAO
 categories:
   - Decentraland
 type: Document
+slug: /player/general/dao/dao-userguide
 ---
 
 ## Table of Contents
