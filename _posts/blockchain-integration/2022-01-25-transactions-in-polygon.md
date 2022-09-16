@@ -7,7 +7,7 @@ categories:
 type: Document
 redirect_from:
   - /blockchain-integration/transactions-in-polygon/
-slug: /player/blochain-integration/transactions-in-polygon
+slug: /player/blockchain-integration/transactions-in-polygon
 ---
 
 ## What is Polygon?
