@@ -130,7 +130,7 @@ Click a transaction to see more details about it on Etherscan.
 
 To transfer a LAND parcel or Estate to another user:
 
-1. Open **My Asssets** and open the details page of the parcel or the Estate you'd like to transfer and click **Transfer**.
+1. Open **My Assets** and open the details page of the parcel or the Estate you'd like to transfer and click **Transfer**.
 
 2. Enter the public address of the Ethereum wallet of the recipient.
 
