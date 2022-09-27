@@ -72,6 +72,10 @@ Events are reviewed by the team at the Decentraland Foundation.
 
 If you add your email or Discord username we will be able to contact you if there is something wrong with your event submission.
 
+**Can I edit my event once it is published?**
+
+???
+
 ### Promotion
 
 **How can I promote my event?**
