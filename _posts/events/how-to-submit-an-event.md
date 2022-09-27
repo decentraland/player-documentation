@@ -26,7 +26,7 @@ No, you can create an event anywhere in Decentraland for free.
 
 **Do I need a wallet to host an event?**
 
-Yes, you need to be signed in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/).
+Yes, you need to sign in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/).
 
 ### Event details
 
@@ -36,7 +36,7 @@ Your event cover should be 1340 pixels wide and 670 pixels tall (1340x670). A 2:
 
 **What file format should my event cover be?**
 
-Your event cover should be saved as a PNG, JPG or GIF. To upload a GIF select “all files” in the browse files dialog box. 500kb is the maximum file size allowed.
+Save your event cover as a PNG, JPG or GIF. To upload a GIF select “all files” in the browse files dialog box. The maximum file size is 500kb.
 
 **What are longitude and latitude?**
 
@@ -44,7 +44,7 @@ Longitude and latitude are the X and Y coordinates of the map in Decentraland. A
 
 **Should I choose a specific server for my event?**
 
-When you join Decentraland, you are connected to one of our servers. By choosing a specific server for your event, everyone who joins the event at the same time will be able to see each other.
+When you enter Decentraland you connect to one of our servers. Choose a specific server for your event so that everyone who joins the event at the same time will be able to see each other.
 
 **What is the UTC time zone?**
 
@@ -70,11 +70,11 @@ Events are reviewed by the team at the Decentraland Foundation.
 
 **Why do I need to add my email or Discord username?**
 
-If you add your email or Discord username we will be able to contact you if there is something wrong with your event submission.
+Add your email or Discord username so we are able to contact you if there is something wrong with your event submission.
 
 **Can I edit my event once it is published?**
 
-Yes you will be able to edit your event at every stage in the process.
+Yes you can edit your event once it is submitted, and once it is published.
 
 ### Promotion
 
