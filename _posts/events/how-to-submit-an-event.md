@@ -82,6 +82,6 @@ Your event may not have passed review because you did not fill in all the requir
 
 Share your event on social media to promote it.
 
-### More help
+## More help
 
 For more help, join the [Decentraland Discord](https://decentraland.org/discord) and post a question in the Support section.
