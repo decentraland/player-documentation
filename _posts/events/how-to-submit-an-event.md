@@ -20,10 +20,11 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 
 ### General
 
-| Question             | Answer               |
-| -------------------- | -------------------- |
-| Do I need to own LAND to create an event? | No, you can create an event anywhere in Decentraland for free. |
-| Do I need a wallet to host an event? | Yes, you need to be signed in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/). |
+**Do I need to own LAND to create an event?**
+No, you can create an event anywhere in Decentraland for free.
+
+**Do I need a wallet to host an event?**
+Yes, you need to be signed in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/).
 
 ### Event details
 
