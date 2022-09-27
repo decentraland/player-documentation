@@ -74,7 +74,7 @@ If you add your email or Discord username we will be able to contact you if ther
 
 **Can I edit my event once it is published?**
 
-???
+Yes you will be able to edit your event at every stage in the process.
 
 ### Promotion
 
