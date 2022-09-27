@@ -60,7 +60,7 @@ Choose the category which best matches your event. If you would like to propose 
 
 Review times depend on day/time of event submission, but won’t take longer than a few hours.
 
-**My event didn’t pass review, why not?**
+**My event wasn't published, why not?**
 
 Your event may not have passed review because you did not fill in all the required information. Make sure you complete every field in the form when submitting an event.
 
