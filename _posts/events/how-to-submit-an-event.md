@@ -2,11 +2,11 @@
 title: "How to submit an event"
 slug: "/player/events/how-to-submit-an-event"
 ---
-#How to submit an event
+# How to submit an event
 
 Hosting an event in Decentraland is easy and free. Events are a great way to connect with your community in the metaverse.
 
-##To submit an event
+## To submit an event
 1. Visit the [events](https://events.decentraland.org/) page
 2. Click “Submit event”
 3. Connect your wallet
@@ -15,16 +15,16 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 6. Wait for your event to be reviewed
 7. Your event is published
 
-##FAQ
+## FAQ
 
-###General
+### General
 
 | Question   | Answer     |
 | ---------- | ---------- |
 | Do I need to own LAND to create an event? | No, you can create an event anywhere in Decentraland for free. |
 | Do I need a wallet to host an event? | Yes, you need to be signed in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/). |
 
-###Event details
+### Event details
 
 | Question   | Answer     |
 | ---------- | ---------- |
@@ -35,7 +35,7 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 | What is the UTC time zone? | UTC is Coordinated Universal Time. |
 | Which category should I choose? | Choose the category which best matches your event. If you would like to propose a new category, you can [submit a proposal](https://docs.decentraland.org/player/general/dao/dao-userguide/) in the [DAO](https://governance.decentraland.org/). |
 
-###Submitting your event
+### Submitting your event
 
 | Question   | Answer     |
 | ---------- | ---------- |
@@ -44,7 +44,7 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 | Who reviews the events? | Events are reviewed by the team at the Decentraland Foundation. |
 | Why do I need to add my email or Discord username? | If you add your email or Discord username we will be able to contact you if there is something wrong with your event submission. |
 
-###Promotion
+### Promotion
 
 | Question   | Answer     |
 | ---------- | ---------- |
