@@ -14,7 +14,7 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 4. Complete the form
 5. Click "Submit"
 6. Wait for your event to be reviewed
-7. Your event is published
+7. If you event passes review, it will be published
 
 ## FAQ
 
