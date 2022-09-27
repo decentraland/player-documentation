@@ -7,6 +7,7 @@ slug: "/player/events/how-to-submit-an-event"
 Hosting an event in Decentraland is easy and free. Events are a great way to connect with your community in the metaverse.
 
 ## To submit an event
+
 1. Visit the [events](https://events.decentraland.org/) page
 2. Click “Submit event”
 3. Connect your wallet
@@ -19,15 +20,15 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 
 ### General
 
-| Question   | Answer     |
-| ---------- | ---------- |
+| Question             | Answer               |
+| -------------------- | -------------------- |
 | Do I need to own LAND to create an event? | No, you can create an event anywhere in Decentraland for free. |
 | Do I need a wallet to host an event? | Yes, you need to be signed in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/). |
 
 ### Event details
 
-| Question   | Answer     |
-| ---------- | ---------- |
+| Question             | Answer               |
+| -------------------- | -------------------- |
 | What resolution should my event cover be? | Your event cover should be 1340 pixels wide and 670 pixels tall (1340x670). A 2:1 aspect ratio. |
 | What file format should my event cover be? | Your event cover should be saved as a PNG, JPG or GIF. To upload a GIF select “all files” in the browse files dialog box. 500kb is the maximum file size allowed. |
 | What are longitude and latitude? | Longitude and latitude are the X and Y coordinates of the map in Decentraland. Add the coordinates of the location where you want to host your event. |
@@ -37,8 +38,8 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 
 ### Submitting your event
 
-| Question   | Answer     |
-| ---------- | ---------- |
+| Question             | Answer               |
+| -------------------- | -------------------- |
 | How long will it take for my event to be reviewed? | Review times depend on day/time of event submission, but won’t take longer than a few hours. |
 | My event didn’t pass review, why not? | Your event may have failed review because you did not fill in all of the required information. Make sure you complete every field in the form when submitting an event. |
 | Who reviews the events? | Events are reviewed by the team at the Decentraland Foundation. |
@@ -46,6 +47,6 @@ Hosting an event in Decentraland is easy and free. Events are a great way to con
 
 ### Promotion
 
-| Question   | Answer     |
-| ---------- | ---------- |
+| Question             | Answer               |
+| -------------------- | -------------------- |
 | How can I promote my event? | Share your event on social media to promote it. |
