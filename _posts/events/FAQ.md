@@ -5,9 +5,9 @@ slug: "/player/events/FAQ"
 
 # FAQ
 
-### General
+## General
 
-**Do I need to own LAND to create an event?**
+**Do I need to own LAND to host an event?**
 
 No, you can create an event anywhere in Decentraland for free.
 
@@ -15,7 +15,7 @@ No, you can create an event anywhere in Decentraland for free.
 
 Yes, you need to sign in with a wallet to create an event. Read our guide to find out about [creating a wallet](https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/).
 
-### Event details
+## Event details
 
 **What resolution should my event cover be?**
 
@@ -41,7 +41,7 @@ UTC is Coordinated Universal Time.
 
 Choose the category which best matches your event. If you would like to propose a new category, you can [submit a proposal](https://docs.decentraland.org/player/general/dao/dao-userguide/) in the [DAO](https://governance.decentraland.org/).
 
-### Submitting your event
+## Submitting your event
 
 **How long will it take for my event to be reviewed?**
 
@@ -63,12 +63,12 @@ Yes you can edit your event once it is submitted, and once it is published.
 
 Your event may not have passed review because you did not fill in all the required information. Make sure you complete every field in the form when submitting an event.
 
-### Promotion
+## Promotion
 
 **How can I promote my event?**
 
 Share your event on social media to promote it.
 
-## More help
+# More help
 
 For more help, join the [Decentraland Discord](https://decentraland.org/discord) and post a question in the Support section.
