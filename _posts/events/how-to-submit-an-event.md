@@ -62,7 +62,7 @@ Review times depend on day/time of event submission, but won’t take longer tha
 
 **My event didn’t pass review, why not?**
 
-Your event may not have passed review because you did not fill in all of the required information. Make sure you complete every field in the form when submitting an event.
+Your event may not have passed review because you did not fill in all the required information. Make sure you complete every field in the form when submitting an event.
 
 **Who reviews the events?**
 
@@ -70,7 +70,7 @@ Events are reviewed by the team at the Decentraland Foundation.
 
 **Why do I need to add my email or Discord username?**
 
-Add your email or Discord username so we are able to contact you if there is something wrong with your event submission.
+Add your email or Discord username so we can contact you if there is something wrong with your event submission.
 
 **Can I edit my event once it is published?**
 
