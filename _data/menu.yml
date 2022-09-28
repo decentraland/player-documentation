@@ -56,6 +56,10 @@
       post: "market/2018-01-01-api.md"
     - title: "LAND API 2.0 Migration Guide"
       post: "market/2021-01-19-api-migration-guide.md"
+- title: Events
+  children:
+    - title: "FAQ"
+      post: "events/2022-09-27-FAQ.md"
 - title: DAO
   children:
     - title: Overview
