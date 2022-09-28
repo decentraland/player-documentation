@@ -4,10 +4,6 @@
       "children": [{
         "name": "Events FAQ",
         "slug": "/player/events/events-FAQ"
-        },
-                  {
-        "name": "FAQ",
-        "slug": "/player/events/FAQ"
         }]
     }]
   }
