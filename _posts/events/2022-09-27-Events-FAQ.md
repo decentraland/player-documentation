@@ -5,6 +5,8 @@ slug: "/player/events/FAQ"
 
 # FAQ
 
+Below you can find the **frequently asked questions** about events in Decentraland.
+
 ## General
 
 **Do I need to own LAND to host an event?**
