@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Events FAQ"
 slug: "/player/events/events-FAQ"
 ---
 
