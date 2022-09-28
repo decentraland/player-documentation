@@ -1,9 +1,9 @@
 ---
-title: "Events FAQ"
-slug: "/player/events/events-FAQ"
+title: "FAQ"
+slug: "/player/events/FAQ"
 ---
 
-# Events FAQ
+# FAQ
 
 ## General
 
