@@ -2,8 +2,8 @@
     "contributor": [{
       "name": "Events",
       "children": [{
-        "name": "How to submit an event",
-        "slug": "/player/events/how-to-submit-an-event"
+        "name": "Events FAQ",
+        "slug": "/player/events/events-FAQ"
         },
                   {
         "name": "FAQ",
